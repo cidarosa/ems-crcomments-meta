@@ -1,3 +1,4 @@
+### --- CONTEÚDO ORIGINAL --- ###
 HELP.md
 .gradle
 build/
@@ -36,3 +37,13 @@ out/
 
 ### VS Code ###
 .vscode/
+
+### --- COMPLEMENTO MAC & JAVA --- ###
+
+### macOS ###
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
