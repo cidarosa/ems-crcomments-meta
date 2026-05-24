@@ -3,4 +3,4 @@
 	url = git@github.com:cidarosa/ems-crcomments-comment-service.git
 [submodule "microservices/moderation-service"]
 	path = microservices/moderation-service
-	url = git@github.com:cidarosa/ems-crcomments-moderation-sevice.git
+	url = git@github.com:cidarosa/ems-crcomments-moderation-service.git
